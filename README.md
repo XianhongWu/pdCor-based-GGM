@@ -6,7 +6,7 @@ The project implements and compares Partial Distance Correlation (pdCor)-based G
 ⸻
 File Organization
 
-	•	01_* → Introduction (demonstration of distance correlation)
+	•	01_* → Introduction (demonstration of nonlinear examples)
 	•	02–05_* → Simulation studies (3-node mixed-nonlinear/circular structure, 10-node examples, robustness checks, etc.)
 	•	06–09_* → Applications (DREAM4 challenge networks for size10/size100)
 
